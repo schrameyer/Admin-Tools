@@ -24,7 +24,7 @@ $Date = Get-Date -UFormat "%d.%m.%Y"
 $WULog = "$RootFolder\Logs\Windows Update.log"
 
 
-# FUNCTION Logging
+# FUNCTION Logging1
 #========================================================================================================================================
 Function DS_WriteLog {
     
