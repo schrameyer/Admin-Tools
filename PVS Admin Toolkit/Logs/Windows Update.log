@@ -13,3 +13,10 @@
 2022-08-23 10:50:22 I - Trying to install PSWindowsUpdate Module...
 2022-08-23 10:50:32 E - Installation of PSWindowsUpdate Powershell module failed! Please install PSWindowsUpdate module to 'C:\Program Files\WindowsPowerShell\Modules'
 2022-08-23 10:50:32 I - Shutting down VM, delete the vDisk maintenence version after shutdown!
+2022-09-07 09:28:48 I - Checking PSWindowsUpdate Module...
+2022-09-07 09:28:51 I - Import PSWindowsUpdate module
+2022-09-07 09:29:25 I - Checking for new updates available on 'localhost'
+2022-09-07 09:30:29 I - Found 2 Updates:
+2022-09-07 09:30:29 I - KB5016874 2022-08 Cumulative Update Preview for .NET Framework 3.5, 4.7.2 and 4.8 for Windows Server 2019 for x64 (KB5016874)
+2022-09-07 09:30:29 I - KB5016623 2022-08 Cumulative Update for Windows Server 2019 (1809) for x64-based Systems (KB5016623)
+2022-09-07 09:30:29 I - Trying to install Updates...
